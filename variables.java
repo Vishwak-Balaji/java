@@ -7,5 +7,6 @@ public class variables{
         double e = 20.0;
         char j ='h';
         boolean k =true;
+        boolean v = false;
     }
 }
