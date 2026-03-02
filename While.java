@@ -13,6 +13,7 @@ public class While{
             i=i/10;
 
         }
-        System.out.println(reverse);
+        
+        System.out.println( "result :"+reverse);
     }
 }
