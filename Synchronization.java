@@ -3,7 +3,7 @@ public class Synchronization {
     
         person1 obj1 = new person1();
         person2 obj2 = new person2();
-        obj1.start();;
+        obj1.start();
         obj2.start();
     
 }
