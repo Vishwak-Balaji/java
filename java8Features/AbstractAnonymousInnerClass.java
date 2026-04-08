@@ -1,5 +1,4 @@
-import java8Features.Demo;
-
+package java8Features;
 public class AbstractAnonymousInnerClass {
     public static void main(String[] args) {
         Demo obj = new Demo(){

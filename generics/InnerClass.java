@@ -1,3 +1,6 @@
+import java8Features.A;
+
+package generics;
 public class InnerClass {
     public static void main(String[] args) {
         A obj = new A();
