@@ -1,3 +1,4 @@
+package java8Features;
 //It only for Functional interface
 
 public class LambdaExpression {

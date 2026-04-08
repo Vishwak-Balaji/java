@@ -1,3 +1,6 @@
+import Demo;
+
+package java8Features;
 public class LambdaWithReturn {
     public static void main(String[] args) {
         Demo obj = (i,j)->i+j;
