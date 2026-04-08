@@ -1,5 +1,4 @@
 package java8Features;
-import generics.A;
 
 public class AnonymousInnerClass {
     public static void main(String[] args) {
